@@ -1,6 +1,7 @@
 Introduction to Digital and Computational Methods in the Humanities
 
 Contents
+--------
 0. Introduction
 1. Data: What is it and why does it matter?
 2. Patterns in texts: Regular Expressions
