@@ -1,4 +1,4 @@
-[![Building a text collection with Zotero](https://i.vimeocdn.com/video/461130615_640.webp](https://player.vimeo.com/video/84316405 "Building a Text Collection with Zotero")
+[![Building a text collection with Zotero](https://i.vimeocdn.com/video/461130615_640.webp)](https://player.vimeo.com/video/84316405 "Building a Text Collection with Zotero")
 
 Why are we doing this?
 ======================
