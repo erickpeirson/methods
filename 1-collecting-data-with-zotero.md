@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT](http://ts.vimeo.com.s3.amazonaws.com/843/164/84316405_200.jpg)](https://player.vimeo.com/video/84316405 "Building a Text Collection with Zotero")
+[![IMAGE ALT TEXT](http://ts.vimeo.com.s3.amazonaws.com/843/164/843166_640.jpg)](https://player.vimeo.com/video/84316405 "Building a Text Collection with Zotero")
 
 Why are we doing this?
 ======================
